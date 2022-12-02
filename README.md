@@ -1,0 +1,2 @@
+# Rexillion
+Discord bot
